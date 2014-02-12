@@ -1,0 +1,26 @@
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\bin\Debug\slotGame.exe
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\bin\Debug\slotGame.pdb
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\slotGame.Form1.resources
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\slotGame.Properties.Resources.resources
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\slotGame.exe
+c:\users\emre\documents\visual studio 2010\Projects\slotGame\obj\x86\Debug\slotGame.pdb
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\slotGame\bin\Debug\Interop.WMPLib.dll
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\slotGame\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\slotGame\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\slotGame\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Emre\Documents\Visual Studio 2010\Projects\slotGame\obj\x86\Debug\slotGame.csproj.ResolveComReference.cache
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\Interop.WMPLib.dll
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\slotGame.csproj.ResolveComReference.cache
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\slotGame.exe
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\slotGame.pdb
+D:\Projects\C_sharp\slotGame\bin\Debug\slotGame.exe
+D:\Projects\C_sharp\slotGame\bin\Debug\slotGame.pdb
+D:\Projects\C_sharp\slotGame\bin\Debug\Interop.WMPLib.dll
+D:\Projects\C_sharp\slotGame\bin\Debug\AxInterop.WMPLib.dll
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\slotGame.Form1.resources
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\slotGame.Properties.Resources.resources
+D:\Projects\C_sharp\slotGame\obj\x86\Debug\slotGame.csproj.GenerateResource.Cache
